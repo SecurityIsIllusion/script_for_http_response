@@ -1,0 +1,3 @@
+https://<URL1>.com/../../etc/passwd
+https://<URL2>.com/../../etc/passwd
+https://<URL3>.com/../../etc/passwd
